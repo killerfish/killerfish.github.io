@@ -21,11 +21,11 @@ layout: default
 }
 </style>
 
-> *Product engineer with 15 years of experience taking products from idea
-> to launch across VoIP, web and mobile. Now SVP Product & Engineering
-> at 360Me, leading product and engineering for its health and longevity
-> products, after years of hands-on R&D in cardiovascular risk,
-> camera-based vitals and iOS.*
+> *Product and engineering leader with 15 years of experience building
+> and leading teams that take products from idea to launch across health
+> tech, mobile and VoIP. Now SVP Product & Engineering at 360Me, after
+> years of hands-on R&D in cardiovascular risk, camera-based vitals and
+> iOS.*
 
 ## 🧑‍💻 Experience
 <div class="separator">
@@ -35,55 +35,40 @@ layout: default
 ### 360Me — SVP Product & Engineering
 <p class="role-meta">May 2025 – Present</p>
 
-- Lead product and the engineering team across 360Me's mobile apps,
-  portals and backend.
-- Built the first version of the 360Me product: integrated Thriva
-  (blood testing) and Withings (connected devices) and led the iOS app
-  that calculates a person's biological age and helps improve it with
-  macro- and micronutrient recommendations, including snap-a-photo food
-  logging.
-- Worked with the Head of Data Science on in-depth R&D to make the
-  biological age more accurate and break it down into several component
-  "ages" that people can improve through nutrition and exercise.
-- Acted as internal product manager for the nutritionist and personal
-  trainer portals, where experts coach users on improving their
-  biological age and biomarkers, and managed the team that built them.
-- Own analytics: set up Amplitude and managed the developers who built
-  a custom admin portal for the backend.
-- Started the company's compliance groundwork: SOC 2 readiness, a review
-  of cybersecurity policies, and an ISO 13485 quality management system
-  in Greenlight Guru.
+- Lead product and engineering, managing the engineering team and
+  partnering with the Head of Data Science on R&D.
+- Took the biological-age product from concept to launch: Thriva blood
+  testing, Withings devices and an iOS app with nutrition
+  recommendations and photo food logging.
+- Directed R&D to make biological age more accurate and break it into
+  component "ages" people can improve through nutrition and exercise.
+- Delivered nutritionist and personal-trainer portals as product owner,
+  adding expert coaching to the product.
+- Set up product analytics (Amplitude) and a custom admin portal, giving
+  the team visibility into users and operations.
+- Started SOC 1 readiness, a cybersecurity policy review and an
+  ISO 13485 quality system (Greenlight Guru).
 
 ### 360Me (formerly DocMe) — Lead Product Engineer
 <p class="role-meta">July 2023 – April 2025</p>
 
-- Led iOS development of the DocMe cardiovascular health app from v2
-  through the 360Me rebrand (v3.2). The app measures blood pressure,
-  heart rate, HRV and respiratory rate from a 30-second face video on
-  an iPhone, using the company's in-house AI models, and keeps health
-  records on the device.
-- Shipped the face-scan capture flow, dashboard, vital detail screens,
-  lifestyle interventions, heart age, Sign in with Apple, subscriptions
-  (RevenueCat), Amplitude analytics and third-party health integrations,
-  working with the ML team to bring their face-scan models into the app.
-- Researched and built DocMe Interventions, an engine that estimates how
-  lifestyle changes (physical activity, diet, sleep, pollution,
-  medication and meditation) shift a person's cardiovascular disease
-  (CVD) risk, starting with daily steps and aerobic activity modelled
-  from peer-reviewed studies.
-- Built a Swift library of clinical CVD risk calculators, including
-  ASCVD, Framingham, QRISK3, Reynolds, Globorisk and WHO/ISH, so the
-  apps could compute risk from a person's health data.
-- Built and maintained the company's HealthKit library, a Swift package
-  for reading and writing Apple Health data (vitals, activity, sleep,
-  cycle tracking, labs and immunisations) shared across its apps.
+- Led the DocMe iOS app from v1 through the 360Me rebrand, shipping 15+
+  releases of an app that reads blood pressure, heart rate, HRV and
+  respiratory rate from a 30-second face scan.
+- Built its core features (face-scan capture, dashboard, heart age,
+  subscriptions, analytics) and brought the ML team's models into the
+  app.
+- Built the in-house Swift libraries the app runs on: clinical CVD risk
+  calculators, an interventions engine that estimates how lifestyle
+  changes shift CVD risk from peer-reviewed research, and a HealthKit
+  data layer shared across the company's apps.
 
 ### Independent iOS Developer
 <p class="role-meta">March 2021 – June 2023</p>
 
-- Designed, built and launched iOS apps from 0 → 1 for clients across
-  consumer and business markets, including a subscription app and a
-  VoIP communications app with its own backend.
+- Designed, built and launched two iOS apps from 0 → 1 for clients: a
+  subscription consumer app and a VoIP business app with its own
+  backend.
 - Worked directly with founders on scope, product decisions and App
   Store launch.
 
@@ -167,7 +152,7 @@ Hardloop rewarded people for staying active by running.
   Fastlane
 - **Health:** HealthKit, face-scan vitals, CVD risk models, biological
   age, nutrition tracking
-- **Quality:** SOC 2, ISO 13485, Greenlight Guru, cybersecurity policy
+- **Quality:** SOC 1, ISO 13485, Greenlight Guru, cybersecurity policy
 - **Languages:** Swift, Objective-C, Python, Perl, C, JavaScript, Lua,
   Bash, Java, PHP, HTML, CSS
 - **Data:** PostgreSQL, MySQL, Redis, Realm, MongoDB, SQLite
