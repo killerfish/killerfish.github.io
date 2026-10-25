@@ -159,10 +159,8 @@ Hardloop rewarded people for staying active by running.
 <pre>
 <b>iOS:</b>       Swift, SwiftUI, Objective-C, Swift Concurrency,
            SwiftData, HealthKit, Tuist, SPM
-<b>AI:</b>        Claude Code, Claude API, MCP, agentic workflows,
-           AI-assisted development
+<b>AI:</b>        AI coding agents, LLM APIs, MCP, agentic workflows
 <b>Health:</b>    HealthKit, face-scan vitals, CVD risk models
-           (ASCVD, Framingham, QRISK3)
 <b>Languages:</b> Perl, C, Lua, Java, Bash, JavaScript, HTML, CSS, PHP,
            Groovy, C#, Assembly
 <b>Databases:</b> MySQL, PostgreSQL, Realm, Redis, MongoDB, SQLite
