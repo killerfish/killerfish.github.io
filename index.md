@@ -144,9 +144,8 @@ Hardloop rewarded people for staying active by running.
   <hr>
 </div>
 
-- **Leadership:** product strategy, roadmapping, team management,
-  Agile/Scrum, growth (acquisition, activation, retention),
-  partnerships, fundraising support
+- **Leadership:** product strategy and execution, roadmapping, team
+  management, Agile/Scrum, product analytics, partnerships
 - **Product:** Figma, Miro, Jira, Trello, Amplitude, Sentry, AppsFlyer,
   App Store Optimisation, paid acquisition
 - **AI:** AI coding agents, LLM APIs, MCP, agentic workflows
