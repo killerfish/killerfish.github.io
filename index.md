@@ -42,6 +42,9 @@ layout: default
   that calculates a person's biological age and helps improve it with
   macro- and micronutrient recommendations, including snap-a-photo food
   logging.
+- Worked with the Head of Data Science on in-depth R&D to make the
+  biological age more accurate and break it down into several component
+  "ages" that people can improve through nutrition and exercise.
 - Acted as internal product manager for the nutritionist and personal
   trainer portals, where experts coach users on improving their
   biological age and biomarkers, and managed the team that built them.
