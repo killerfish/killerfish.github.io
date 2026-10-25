@@ -54,7 +54,7 @@ layout: default
   of cybersecurity policies, and an ISO 13485 quality management system
   in Greenlight Guru.
 
-### 360Me (formerly DocMe) — Product Engineer
+### 360Me (formerly DocMe) — Lead Product Engineer
 <p class="role-meta">July 2023 – April 2025</p>
 
 - Led iOS development of the DocMe cardiovascular health app from v2
@@ -122,7 +122,7 @@ Hardloop rewarded people for staying active by running.
   app.
 
 ### DuckDuckGo — Community Leader
-<p class="role-meta">January 2015 – Present</p>
+<p class="role-meta">January 2015 – September 2017</p>
 
 - Built relationships with users on IRC and GitHub, addressed their
   concerns and promoted DuckDuckGo's privacy mission.
@@ -159,6 +159,8 @@ Hardloop rewarded people for staying active by running.
 <pre>
 <b>iOS:</b>       Swift, SwiftUI, Objective-C, Swift Concurrency,
            SwiftData, HealthKit, Tuist, SPM
+<b>AI:</b>        Claude Code, Claude API, MCP, agentic workflows,
+           AI-assisted development
 <b>Health:</b>    HealthKit, face-scan vitals, CVD risk models
            (ASCVD, Framingham, QRISK3)
 <b>Languages:</b> Perl, C, Lua, Java, Bash, JavaScript, HTML, CSS, PHP,
