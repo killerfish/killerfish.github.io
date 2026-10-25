@@ -22,21 +22,21 @@ layout: default
 </style>
 
 > *Product engineer with 15 years of experience taking products from idea
-> to launch across VoIP, web and mobile. Now SVP at 360Me, leading the
-> engineering team behind its health and longevity products, after
-> years of hands-on R&D in cardiovascular risk, camera-based vitals and
-> iOS.*
+> to launch across VoIP, web and mobile. Now SVP Product & Engineering
+> at 360Me, leading product and engineering for its health and longevity
+> products, after years of hands-on R&D in cardiovascular risk,
+> camera-based vitals and iOS.*
 
 ## 🧑‍💻 Experience
 <div class="separator">
   <hr>
 </div>
 
-### 360Me — SVP
+### 360Me — SVP Product & Engineering
 <p class="role-meta">May 2025 – Present</p>
 
-- Lead the engineering team across 360Me's mobile apps, portals and
-  backend.
+- Lead product and the engineering team across 360Me's mobile apps,
+  portals and backend.
 - Built the first version of the 360Me product: integrated Thriva
   (blood testing) and Withings (connected devices) and led the iOS app
   that calculates a person's biological age and helps improve it with
