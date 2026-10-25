@@ -144,23 +144,23 @@ Hardloop rewarded people for staying active by running.
   <hr>
 </div>
 
-- **Leadership:** product strategy and execution, roadmapping, team
-  management, Agile/Scrum, product analytics, partnerships
+- **Leadership:** Product strategy and execution, Roadmapping, Team
+  management, Agile/Scrum, Product analytics, Partnerships
 - **Product:** Figma, Miro, Jira, Trello, Amplitude, Sentry, AppsFlyer,
-  App Store Optimisation, paid acquisition
-- **AI:** AI coding agents, LLM APIs, MCP, agentic workflows
+  App Store Optimisation, Paid acquisition
+- **AI:** AI coding agents, LLM APIs, MCP, Agentic workflows
 - **iOS:** Swift, SwiftUI, Objective-C, Swift Concurrency, SwiftData,
   HealthKit, Core ML, AVFoundation, RevenueCat, Tuist, SPM, Xcode Cloud,
   Fastlane
-- **Health:** HealthKit, face-scan vitals, CVD risk models, biological
-  age, nutrition tracking
-- **Quality:** SOC 1, ISO 13485, Greenlight Guru, cybersecurity policy
+- **Health:** HealthKit, Face-scan vitals, CVD risk models, Biological
+  age, Nutrition tracking
+- **Quality:** SOC 1, ISO 13485, Greenlight Guru, Cybersecurity policy
 - **Languages:** Swift, Objective-C, Python, Perl, C, JavaScript, Lua,
   Bash, Java, PHP, HTML, CSS
 - **Data:** PostgreSQL, MySQL, Redis, Realm, MongoDB, SQLite
 - **Cloud:** AWS, Microsoft Azure, GitHub Actions
-- **VoIP:** Asterisk, FreeSWITCH, OpenSIPS, UniMRCP, SIP, speech
-  recognition, real-time translation
+- **VoIP:** Asterisk, FreeSWITCH, OpenSIPS, UniMRCP, SIP, Speech
+  recognition, Real-time translation
 - **Other:** Git, Linux, Apache, PaintCode, GIMP, Final Cut Pro
 
 <p style="margin: 40px;"></p>
