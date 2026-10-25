@@ -156,21 +156,25 @@ Hardloop rewarded people for staying active by running.
   <hr>
 </div>
 
-<pre>
-<b>iOS:</b>       Swift, SwiftUI, Objective-C, Swift Concurrency,
-           SwiftData, HealthKit, Tuist, SPM
-<b>AI:</b>        AI coding agents, LLM APIs, MCP, agentic workflows
-<b>Health:</b>    HealthKit, face-scan vitals, CVD risk models
-<b>Languages:</b> Perl, C, Lua, Java, Bash, JavaScript, HTML, CSS, PHP,
-           Groovy, C#, Assembly
-<b>Databases:</b> MySQL, PostgreSQL, Realm, Redis, MongoDB, SQLite
-<b>VoIP:</b>      Asterisk, FreeSWITCH, UniMRCP, OpenSIPS
-<b>Cloud:</b>     AWS, Microsoft Azure
-<b>Product:</b>   Jira, Trello, Figma, Amplitude, ASO tools
-<b>Quality:</b>   SOC 2, ISO 13485, Greenlight Guru
-<b>Other:</b>     Git, Apache, speech recognition toolkits, PaintCode,
-           GIMP, Final Cut Pro, Linux
-</pre>
+- **Leadership:** product strategy, roadmapping, team management,
+  Agile/Scrum, growth (acquisition, activation, retention),
+  partnerships, fundraising support
+- **Product:** Figma, Miro, Jira, Trello, Amplitude, Sentry, AppsFlyer,
+  App Store Optimisation, paid acquisition
+- **AI:** AI coding agents, LLM APIs, MCP, agentic workflows
+- **iOS:** Swift, SwiftUI, Objective-C, Swift Concurrency, SwiftData,
+  HealthKit, Core ML, AVFoundation, RevenueCat, Tuist, SPM, Xcode Cloud,
+  Fastlane
+- **Health:** HealthKit, face-scan vitals, CVD risk models, biological
+  age, nutrition tracking
+- **Quality:** SOC 2, ISO 13485, Greenlight Guru, cybersecurity policy
+- **Languages:** Swift, Objective-C, Python, Perl, C, JavaScript, Lua,
+  Bash, Java, PHP, HTML, CSS
+- **Data:** PostgreSQL, MySQL, Redis, Realm, MongoDB, SQLite
+- **Cloud:** AWS, Microsoft Azure, GitHub Actions
+- **VoIP:** Asterisk, FreeSWITCH, OpenSIPS, UniMRCP, SIP, speech
+  recognition, real-time translation
+- **Other:** Git, Linux, Apache, PaintCode, GIMP, Final Cut Pro
 
 <p style="margin: 40px;"></p>
 
