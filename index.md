@@ -22,9 +22,10 @@ layout: default
 </style>
 
 > *Product engineer with 15 years of experience taking products from idea
-> to launch across VoIP, web and mobile. Currently at 360Me, building
-> consumer health products on iOS — from R&D on cardiovascular risk and
-> camera-based vitals to the apps people use every day.*
+> to launch across VoIP, web and mobile. Now SVP at 360Me, leading the
+> engineering team behind its health and longevity products, after
+> years of hands-on R&D in cardiovascular risk, camera-based vitals and
+> iOS.*
 
 ## 🧑‍💻 Experience
 <div class="separator">
@@ -32,12 +33,26 @@ layout: default
 </div>
 
 ### 360Me — SVP
-<p class="role-meta">[Dates] – Present</p>
+<p class="role-meta">May 2025 – Present</p>
 
-*Details to come.*
+- Lead the engineering team across 360Me's mobile apps, portals and
+  backend.
+- Built the first version of the 360Me product: integrated Thriva
+  (blood testing) and Withings (connected devices) and led the iOS app
+  that calculates a person's biological age and helps improve it with
+  macro- and micronutrient recommendations, including snap-a-photo food
+  logging.
+- Acted as internal product manager for the nutritionist and personal
+  trainer portals, where experts coach users on improving their
+  biological age and biomarkers, and managed the team that built them.
+- Own analytics: set up Amplitude and managed the developers who built
+  a custom admin portal for the backend.
+- Started the company's compliance groundwork: SOC 2 readiness, a review
+  of cybersecurity policies, and an ISO 13485 quality management system
+  in Greenlight Guru.
 
 ### 360Me (formerly DocMe) — Product Engineer
-<p class="role-meta">July 2023 – [End date]</p>
+<p class="role-meta">July 2023 – April 2025</p>
 
 - Led iOS development of the DocMe cardiovascular health app from v2
   through the 360Me rebrand (v3.2). The app measures blood pressure,
@@ -149,6 +164,7 @@ Hardloop rewarded people for staying active by running.
 <b>VoIP:</b>      Asterisk, FreeSWITCH, UniMRCP, OpenSIPS
 <b>Cloud:</b>     AWS, Microsoft Azure
 <b>Product:</b>   Jira, Trello, Figma, Amplitude, ASO tools
+<b>Quality:</b>   SOC 2, ISO 13485, Greenlight Guru
 <b>Other:</b>     Git, Apache, speech recognition toolkits, PaintCode,
            GIMP, Final Cut Pro, Linux
 </pre>
