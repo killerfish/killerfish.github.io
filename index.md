@@ -130,9 +130,9 @@ Hardloop rewarded people for staying active by running.
 </div>
 
 <pre>
-<b>iOS:</b>       Swift, SwiftUI, Objective-C, Swift Concurrency, SwiftData,
-           HealthKit, Tuist, Swift Package Manager
-<b>Health:</b>    HealthKit data pipelines, camera-based vitals (face scan),
+<b>iOS:</b>       Swift, SwiftUI, Objective-C, Swift Concurrency,
+           SwiftData, HealthKit, Tuist, SPM
+<b>Health:</b>    HealthKit data, face-scan vitals,
            cardiovascular risk research
 <b>Languages:</b> Perl, C, Lua, Java, Bash, JavaScript, HTML, CSS, PHP,
            Groovy, C#, Assembly
