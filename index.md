@@ -45,9 +45,9 @@ layout: default
   Guru, from technical integration to day-to-day coordination.
 - Directed R&D to make biological age more accurate and break it into
   component "ages" people can improve through nutrition and exercise.
-- Introduced a prototype-first workflow: prototyped the nutritionist and
-  personal-trainer portals, where coaches guide users on their
-  biomarkers, then handed them to developers to complete.
+- Introduced an AI-first prototyping workflow: built working prototypes
+  of the nutritionist and personal-trainer portals with AI tools, then
+  handed them to developers to complete.
 - Set up product analytics (Amplitude) and a custom admin portal, giving
   the team visibility into users and operations.
 - Started SOC 1 readiness, a cybersecurity policy review and an
