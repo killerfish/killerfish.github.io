@@ -36,20 +36,29 @@ layout: default
 
 *Details to come.*
 
-### 360Me — Product Engineer
+### 360Me (formerly DocMe) — Product Engineer
 <p class="role-meta">July 2023 – [End date]</p>
 
-- Led R&D on an internal iOS research app that collects and analyses
-  health data through Apple HealthKit, used to prototype and validate
-  new health features before they reached customers.
-- Researched cardiovascular disease (CVD) risk assessment, turning
-  health data and established clinical risk models into risk insights
-  inside the app.
-- Built the DocMe iOS app, which estimated vital signs such as blood
-  pressure from a short face scan with the phone's camera, working with
-  the data science team to bring their models into the product.
-- Owned features end to end: discovery, design, iOS development and
-  launch.
+- Led iOS development of the DocMe cardiovascular health app from v2
+  through the 360Me rebrand (v3.2). The app measures blood pressure,
+  heart rate, HRV and respiratory rate from a 30-second face video on
+  an iPhone, using the company's in-house AI models, and keeps health
+  records on the device.
+- Shipped the face-scan capture flow, dashboard, vital detail screens,
+  lifestyle interventions, heart age, Sign in with Apple, subscriptions
+  (RevenueCat), Amplitude analytics and third-party health integrations,
+  working with the ML team to bring their face-scan models into the app.
+- Researched and built DocMe Interventions, an engine that estimates how
+  lifestyle changes (physical activity, diet, sleep, pollution,
+  medication and meditation) shift a person's cardiovascular disease
+  (CVD) risk, starting with daily steps and aerobic activity modelled
+  from peer-reviewed studies.
+- Built a Swift library of clinical CVD risk calculators, including
+  ASCVD, Framingham, QRISK3, Reynolds, Globorisk and WHO/ISH, so the
+  apps could compute risk from a person's health data.
+- Built and maintained the company's HealthKit library, a Swift package
+  for reading and writing Apple Health data (vitals, activity, sleep,
+  cycle tracking, labs and immunisations) shared across its apps.
 
 ### Independent iOS Developer
 <p class="role-meta">March 2021 – June 2023</p>
@@ -132,8 +141,8 @@ Hardloop rewarded people for staying active by running.
 <pre>
 <b>iOS:</b>       Swift, SwiftUI, Objective-C, Swift Concurrency,
            SwiftData, HealthKit, Tuist, SPM
-<b>Health:</b>    HealthKit data, face-scan vitals,
-           cardiovascular risk research
+<b>Health:</b>    HealthKit, face-scan vitals, CVD risk models
+           (ASCVD, Framingham, QRISK3)
 <b>Languages:</b> Perl, C, Lua, Java, Bash, JavaScript, HTML, CSS, PHP,
            Groovy, C#, Assembly
 <b>Databases:</b> MySQL, PostgreSQL, Realm, Redis, MongoDB, SQLite
