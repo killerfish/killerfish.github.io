@@ -35,12 +35,12 @@ layout: default
 ### 360Me — SVP Product & Engineering
 <p class="role-meta">May 2025 – Present</p>
 
-- Lead product and engineering with a team of 9 (4 engineers, a QA
-  engineer, a product manager, 2 nutritionists and a personal trainer),
-  partnering with the Head of Data Science on R&D.
-- Took the biological-age product from concept to launch, reaching
-  around 200 users: Thriva blood testing, Withings devices and an iOS
-  app with nutrition recommendations and photo food logging.
+- Lead product and engineering, managing a cross-functional team of
+  engineers, QA, product and coaching staff, and partnering with the
+  Head of Data Science on R&D.
+- Took the biological-age product from concept to launch: Thriva blood
+  testing, Withings devices and an iOS app with nutrition
+  recommendations and photo food logging.
 - Owned the partner relationships with Thriva, Withings and Greenlight
   Guru, from technical integration to day-to-day coordination.
 - Directed R&D to make biological age more accurate and break it into
