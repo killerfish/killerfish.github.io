@@ -69,9 +69,8 @@ layout: default
 ### Independent iOS Developer
 <p class="role-meta">March 2021 – June 2023</p>
 
-- Designed, built and launched two iOS apps from 0 → 1 for clients: a
-  subscription consumer app and a VoIP business app with its own
-  backend.
+- Designed and built multiple iOS apps from 0 → 1 for clients across
+  consumer and business markets, including subscription and VoIP apps.
 - Worked directly with founders on scope, product decisions and App
   Store launch.
 
